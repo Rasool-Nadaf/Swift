@@ -45,8 +45,6 @@ apps.
     -   Called before the view is removed.
 6.  **`viewDidDisappear(_:)`**
     -   Called when the view has disappeared.
-7.  **`didReceiveMemoryWarning()`** *(iOS \< 13)*
-    -   Called when system is low on memory.
 
 ------------------------------------------------------------------------
 
@@ -74,7 +72,7 @@ automatically.
 
 **Where:** Works for both classes and objects.
 
-**How:**\
+**How:**
 - Strong Reference: Keeps object alive.
 - Weak Reference: Does not increase count, can become `nil`.
 - Unowned Reference: Non-optional, must always have a value.
