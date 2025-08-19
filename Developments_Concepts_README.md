@@ -2,7 +2,8 @@
 
 ## 1. Cocoa
 
-**What:** A collection of frameworks for macOS development./
+**What:** A collection of frameworks for macOS development.
+
 **Why:** Provides APIs for building macOS applications.
 **When:** Used when building apps for macOS.
 **Where:** Includes frameworks like Foundation and AppKit.
