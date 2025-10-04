@@ -1,6 +1,6 @@
 # Swift Interview Preparation Guide
 
-## Part 1 â€” Swift Basics
+## Part 1  Swift Basics
 
 ### Variables (var) & Constants (let)
 Q1: What is the difference between `var` and `let`?  
@@ -122,7 +122,7 @@ A: Values attached to specific enum cases.
 
 ---
 
-## Part 2 â€” Collections
+## Part 2  Collections
 
 ### Arrays
 Q1: What is an array in Swift?  
@@ -163,7 +163,7 @@ A: `append`, `remove`, `insert`, `filter`, `map`, `reduce`.
 
 ---
 
-## Part 3 â€” Object-Oriented Programming (OOP) in Swift
+## Part 3  Object-Oriented Programming (OOP) in Swift
 
 ### Classes & Structs
 Q1: Difference between class and struct?  
@@ -282,7 +282,7 @@ A: `static let shared = MyClass()`.
 
 ---
 
-## Part 4 â€” UIKit + Storyboard Concepts
+## Part 4  UIKit + Storyboard Concepts
 
 ### MVC Design Pattern
 Q1: What is MVC?  
